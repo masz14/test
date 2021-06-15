@@ -1,0 +1,104 @@
+{
+  "nodes": [
+    {
+      "authors": "Francine Berman",
+      "id": "Francine Berman",
+      "title": ["aaaa", "bbbb"],
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Francine Berman",
+      "id": "Social and ethical behavior in the internet of things",
+      "title": "Social and ethical behavior in the internet of things",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "n_citation": 0
+    },
+    {
+      "author": "Francine Berman",
+      "id": "We need a research data census",
+      "title": "We need a research data census",
+      "year": 2010,
+      "venue": "Communications of The ACM",
+      "n_citation": 2
+    },
+    {
+      "authors": "Vinton G. Cerf",
+      "id": "Vinton G. Cerf",
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "Unreliable Machine Learning",
+      "title": "Unreliable Machine Learning",
+      "year": 2017,
+      "venue": "IEEE Internet Computing",
+      "n_citation": 0
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "Grumpy old cells",
+      "title": "Grumpy old cells",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "n_citation": 0
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "Deep Retraining and Innovation",
+      "title": "Deep Retraining and Innovation",
+      "year": 2017,
+      "venue": "IEEE Internet Computing",
+      "n_citation": 0
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "A genetic theory of the Silicon Valley phenomenon",
+      "title": "A genetic theory of the Silicon Valley phenomenon",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "n_citation": 0
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "Can liberty survive the digital age",
+      "title": "Can liberty survive the digital age",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "n_citation": 0
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "On the Simulation of Everything",
+      "title": "On the Simulation of Everything",
+      "year": 2017,
+      "venue": "IEEE Internet Computing",
+      "n_citation": 0
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "Open access to academic research",
+      "title": "Open access to academic research",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "n_citation": 0
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "What if it's us?",
+      "title": "What if it's us?",
+      "year": 2014,
+      "venue": "Communications of The ACM",
+      "n_citation": 3
+    }
+   ],
+   "links": [ 
+       {
+      "source": "Francine Berman",
+      "target": "What if it's us?",
+      "value": 5
+    }
+    ]
+}  
