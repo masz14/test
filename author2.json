@@ -1,0 +1,18 @@
+{
+  "nodes": [
+    {
+      "authors": "Francine Berman",
+      "id": "Francine Berman",
+      "title": ["aaaa", "bbbb"],
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Francine Berman",
+      "id": "Social and ethical behavior in the internet of things",
+      "title": "Social and ethical behavior in the internet of things",
+      "year": 2017,
+      "venue": "Communications of The ACM",
+      "n_citation": 0
+    }],
+	"links":[{}]}
