@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "authors": "Francine Berman",
+      "id": "Francine Berman",
+      "title": ["aaaa", "bbbb"],
+      "n_citation": 0,
+      "year": 2009
+    },
+    {
+      "author": "Vinton G. Cerf",
+      "id": "What if it's us?",
+      "title": "What if it's us?",
+      "year": 2014,
+      "venue": "Communications of The ACM",
+      "n_citation": 3
+    }
+   ],
+   "links": [ 
+       {
+      "source": "Francine Berman",
+      "target": "What if it's us?",
+      "value": 200
+    }
+    ]
+}  
