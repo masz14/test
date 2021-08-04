@@ -1,0 +1,87 @@
+{"nodes": [ 
+
+{"id": "1486693003",
+"title": "Proof of a conjecture of Kenyon and Wilson on semicontiguous minors",
+"author": "Tri Lai",
+"venue": "Journal of Combinatorial Theory",
+"year": 2019,
+"n_citation": 3},
+
+{"id": "1490021936",
+"title": "The corruption bound, log-rank, and communication complexity",
+"author": "Adi Shraibman",
+"venue": "Information Processing Letters",
+"year": 2019,
+"n_citation": 1},
+
+{"id": "1586001150",
+"title": "Seeded graph matching",
+"author": "Donniell E. Fishkind",
+"venue": "Pattern Recognition",
+"year": 2019,
+"n_citation": 10},
+
+{"id": "180784818",
+"title": "Moving Horizon Estimation",
+"author": "Douglas A. Allan",
+"venue": "Encyclopedia of Systems and Control"},
+"year": 2019,
+"n_citation": 10},
+
+{"id": "1894745068",
+"title": "The computational complexity of calculating partition functions of optimal medians with Hamming distance",
+"author": "Istv\u00e1n Mikl\u00f3s",
+"venue": "Advances in Applied Mathematics",
+"year": 2019,
+"n_citation": 0},
+
+{"id": "2241958176",
+"title": "Spectral concentration and greedy k-clustering",
+"author": "Tamal K. Dey",
+"venue": "Computational Geometry: Theory and Applications",
+"year": 2019,
+"n_citation": 2},
+
+{"id": "2254948111",
+"title": "Visible lattice points in random walks",
+"author": "Javier Cilleruelo",
+"venue": "European Journal of Combinatorics",
+"year": 2019,
+"n_citation": 2},
+
+{"id": "2261009932",
+"title": "Cross-Scale Predictive Dictionaries",
+"author": "Vishwanath Saragadam",
+"venue": "IEEE Transactions on Image Processing",
+"year": 2019,
+"n_citation": 0},
+
+{"id": "2266310802",
+"title": "On the Erd\u0151s\u2013Hajnal conjecture for six-vertex tournaments",
+"author": "Eli Berger",
+"venue": "European Journal of Combinatorics",
+"year": 2019,
+"n_citation": 0},
+
+{"id": "2266385526",
+"title": "A transformation approach that makes SPAI, PSAI and RSAI procedures efficient for large double irregular nonsymmetric sparse linear systems",
+"author": "Zhongxiao Jia",
+"venue": "Journal of Computational and Applied Mathematics",
+"year": 2019,
+"n_citation": 1},
+
+{"id": "2268159912",
+"title": "Imaginary projections of polynomials",
+"author": "Thorsten J\u00f6rgens",
+"venue": "Journal of Symbolic Computation",
+"year": 2019,
+"n_citation": 2}
+],
+   "links": [ 
+       {
+      "source": "2268159912",
+      "target": "2266385526",
+      "value": 200
+    }
+    ]
+} 
